@@ -6,15 +6,15 @@ gem 'rails', '4.1.0'
 # Use sqlite3 as the database for Active Record
 
 #saini
-group :development, :test do
-  gem 'sqlite3'
-end
+#group :development, :test do
+#  gem 'sqlite3'
+#end
 
 #group :production do
 #  gem 'pg'
 #end
 #saini
-#gem 'sqlite3' #saini
+gem 'sqlite3' #saini
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
